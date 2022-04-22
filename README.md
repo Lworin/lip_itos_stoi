@@ -1,4 +1,6 @@
-# README
+# LIP - itos/stoi
+
+Projeto: Função para conversão de int para string, e string para int
 
 * Autor: Luan Phelippe
 * Pós-graduação em Sistemas Embarcados
