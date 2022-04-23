@@ -38,6 +38,6 @@ Thumbs.db
 
 # DEV Cpp IDE files #
 #####################
-.dev
-.layout
-.win
+*.dev
+*.layout
+*.win
